@@ -1,0 +1,5 @@
+# ignore class
+code/ORM/src/*.class
+code/ORM/target/
+# directorio temporal
+tmp/
