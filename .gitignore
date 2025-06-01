@@ -1,5 +1,6 @@
 # ignore class
 code/ORM/src/*.class
 code/ORM/target/
+code/singleton/*.class
 # directorio temporal
 tmp/
